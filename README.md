@@ -16,3 +16,4 @@ https://climavue.netlify.app/
 ### **Output Images :-_**
 
 <img width="451" alt="image" src="/images/Screenshot from 2024-02-19 10-09-48.png">
+<img width="451" alt="image" src="/images/Screenshot from 2024-02-19 10-10-28.png">
